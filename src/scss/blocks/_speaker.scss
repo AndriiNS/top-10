@@ -12,14 +12,14 @@
   max-width: 1920px;
   margin: 0 auto;
   @media (max-width: 1400px) {
-    background: linear-gradient(180deg, #171717 38.44%, rgba(23, 23, 23, 0) 64.22%),
+    background: linear-gradient(180deg, #171717 38.44%, rgba(23, 23, 23, 0) 54.22%),
       url("./../img/speaker.png");
     background-repeat: no-repeat;
     background-position: center bottom;
     min-height: 1000px;
   }
   @media (max-width: 700px) {
-    background: linear-gradient(180deg, #171717 30.44%, rgba(23, 23, 23, 0) 54.22%),
+    background: linear-gradient(180deg, #171717 30.44%, rgba(23, 23, 23, 0) 40.22%),
       url("./../img/speaker.png");
     background-repeat: no-repeat;
     background-position: center bottom;

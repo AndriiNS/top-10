@@ -79,7 +79,9 @@
 
 .inner-item {
   // .inner-item__box
-
+  img {
+    width: 100%;
+  }
   &__box {
     padding-left: 20px;
     display: flex;

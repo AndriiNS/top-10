@@ -43,6 +43,7 @@
       font-size: 24px;
       max-width: 221px;
       padding-top: 20px;
+      margin-bottom: 60px;
     }
   }
 
@@ -187,6 +188,9 @@
         border-bottom: 1px solid #bbbbc3;
         border-right: none;
       }
+    }
+    @media (max-width: 800px) {
+      border-radius: 10px;
     }
   }
 
